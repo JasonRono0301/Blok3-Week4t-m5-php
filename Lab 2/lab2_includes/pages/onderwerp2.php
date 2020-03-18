@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Onderwerp 1</title>
+    <title>Onderwerp 2</title>
 </head>
 <body>
 <?php
@@ -11,7 +11,7 @@
 ?>
 
 <div class="container2">
-<a href="onderwerp2.php?subject2=DOOM">Onderwerp 2</a>
+<a href="index.php?subject2=DOOM">Onderwerp 2</a>
 </div>
 
 </body>

@@ -10,9 +10,8 @@
 <?php
     echo "My favoriet game is" . " ". $_GET['subject'] . " " . $_GET['versie']. " ,"." omdat het naar mijn mening de beste FPS game is ondanks de campers in de game waardoor ik de game bijna het raam wil uitgooien. Maar daarnaast is het een wel een geweldige shooter game om te spelen.";
 ?>
-
 <div class="container1">
-<a href="onderwerp1.php?subject=Call Of Duty&versie=Modern Wafare&">Onderwerp 1</a>
+<a href="index.php?subject=Call Of Duty&versie=Modern Wafare&">Onderwerp 1</a>
 </div>
 </body>
 </html>

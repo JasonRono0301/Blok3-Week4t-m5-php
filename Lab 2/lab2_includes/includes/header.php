@@ -12,12 +12,13 @@ om te bepalen welke inhoud er ingeladen moet worden in je html
     <title>header</title>
 </head>
 <body>
+    <head>
     <ul>
         <li><img src="images/php.jpg" alt="header" width=100px></li>
-        <li><a href="pages/onderwerp1.php">Onderwerp 1</a></li>
-        <li><a href="pages/onderwerp2.php">Onderwerp 2</a></li>
-        <li><a href="pages/onderwerp3.php">Onderwerp 3</a></li>
+        <li><a href="index.php?games=onderwerp1">Favoriete Game 1</a></li>
+        <li><a href="index.php?games=onderwerp2">Favoriete Game 2</a></li>
+        <li><a href="index.php?games=onderwerp3">Favoriete Game 3</a></li>
     </ul>
-    
+    </head>
 </body>
 </html>
