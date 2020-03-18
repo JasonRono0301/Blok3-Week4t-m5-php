@@ -1,5 +1,4 @@
 <!doctype html>
-
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -7,15 +6,17 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+<div class="container">
 <?php
 	//<!-- laad hier via php je header in (vanuit je includes map) -->
+  include 'includes/header.php';
 
+	//<!-- laad hier via php de juiste contentpagina in (vanuit de pages map) in. Welke geselecteerd moet worden kun je uit de URL halen (URL_Params).--> 
+ 
 
-	//<!-- laad hier via php de juiste contentpagina in (vanuit de pages map) in. Welke geselecteerd moet worden kun je uit de URL halen (URL_Params).-->
-
-	
 	//<!-- laad hier via php je footer in (vanuit je includes map)-->
-include 'includes/footer.php';
+  include 'includes/footer.php';
 ?>
+  </div>
 </body>
 </html>

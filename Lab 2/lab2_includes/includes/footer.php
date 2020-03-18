@@ -4,21 +4,14 @@ Benoem hier ten minste je naam en de tijd
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="css/style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Footer</title>
+    <title>footer</title>
 </head>
 <body>
-
-
-
-
-
-
-
-
     <footer>
-        <p> Jason Ronoastro, maart 2020 </p>
+        <p class='footer'> Jason Ronoastro, maart 2020 </p>
     </footer>
 </body>
 </html>
