@@ -12,7 +12,7 @@
 ?>
 
 <div class="container1">
-<a href="onderwerp1.php?subject=Call Of Duty&versie=Modern Wafare">Onderwerp 1</a>
+<a href="onderwerp1.php?subject=Call Of Duty&versie=Modern Wafare&">Onderwerp 1</a>
 </div>
 </body>
 </html>
