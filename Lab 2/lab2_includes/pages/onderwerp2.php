@@ -7,11 +7,11 @@
 </head>
 <body>
 <?php
-    echo "My 2e favoriete game is". " ". $_GET['subject2']. ", ". "omdat het een gruwelijke game is met veel geweld en je kan echt veel verschillende wapens en finishers gebruiken in de game zelf om de vijanden uit te schakelen";
+    echo "My 2e favoriete game is". " ". "DOOM". ", ". "omdat het een gruwelijke game is met veel geweld en je kan echt veel verschillende wapens en finishers gebruiken in de game zelf om de vijanden uit te schakelen";
 ?>
 
 <div class="container2">
-<a href="index.php?subject2=DOOM">Onderwerp 2</a>
+<p>Onderwerp 2</p>
 </div>
 
 </body>

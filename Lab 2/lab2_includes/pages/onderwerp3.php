@@ -11,7 +11,7 @@
 ?>
 
 <div class="container3">
-<a href="index.php?subject3=FORTNITE">Onderwerp 3</a>
+<p>Onderwerp 3</p>
 </div>
 
 </body>
