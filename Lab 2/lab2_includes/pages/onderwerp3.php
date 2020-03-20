@@ -7,7 +7,7 @@
 </head>
 <body>
 <?php
-    echo "My 3e favoriete game is". " ". $_GET['subject3']. ", ". "omdat het veel opties heeft om te vechten dus bijvoorbeeld door te bouwen of straight up erop af gaan of rustig wachten dus er is altijd wel iets om je erop voor te bereiden.";
+    echo "My 3e favoriete game is". " ". "Fortnite". ", ". "omdat het veel opties heeft om te vechten dus bijvoorbeeld door te bouwen of straight up erop af gaan of rustig wachten dus er is altijd wel iets om je erop voor te bereiden.";
 ?>
 
 <div class="container3">
