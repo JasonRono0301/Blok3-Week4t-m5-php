@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+<img src="images/download.jpeg" id="COD">
 <?php
     echo "My favoriet game is" . " ". "Call Of Duty Modern Wafare" . " " . $_GET['versie']. " ,"." omdat het naar mijn mening de beste FPS game is ondanks de campers in de game waardoor ik de game bijna het raam wil uitgooien. Maar daarnaast is het een wel een geweldige shooter game om te spelen.";
 ?>
